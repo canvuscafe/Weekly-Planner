@@ -1,0 +1,8 @@
+{
+  "name": "Weekly Planner \u0026 Performance Analysis",
+  "description": "A comprehensive weekly planning, goal tracking, performance analysis, and AI review platform for students and working professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
